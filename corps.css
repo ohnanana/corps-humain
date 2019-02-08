@@ -1,0 +1,132 @@
+img {
+
+display:block;
+width:auto;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: Arvo, sans-serif; 
+font-size: 30px;
+text-decoration: blink;
+
+}
+
+
+.epaule
+    {
+      width: 50px;
+      height: 50px;
+      background: black;
+      border-radius: 50%;
+      opacity: 0.6;
+      align-content: flex-start;
+      margin-top:-420px;
+      left: 610px;
+      position: absolute;
+      
+     }
+
+.epaule hover{
+background-color: red;
+}
+
+#image{
+
+background-image:url("corps.png") no-repeat;
+
+}
+
+.bras
+    {
+      width: 50px;
+      height: 50px;
+      background: black;
+      border-radius: 50%;
+      opacity: 0.6;
+      align-content: flex-start;
+      margin-top:-330px;
+      left: 710px;
+      position: absolute;
+      
+     }
+
+.main
+    {
+      width: 50px;
+      height: 50px;
+      background: black;
+      border-radius: 50%;
+      opacity: 0.6;
+      align-content: flex-start;
+      margin-top:-290px;
+      left: 600px;
+      position: absolute;
+      
+     }
+
+.hanche
+    {
+      width: 50px;
+      height: 50px;
+      background: black;
+      border-radius: 50%;
+      opacity: 0.6;
+      align-content: flex-start;
+      margin-top:-270px;
+      right: 630px;
+      position: absolute;
+      
+     }
+
+     .genou
+    {
+      width: 50px;
+      height: 50px;
+      background: black;
+      border-radius: 50%;
+      opacity: 0.6;
+      align-content: flex-start;
+      margin-top:-180px;
+      right: 680px;
+      position: absolute;
+      
+     }
+
+     .pied
+    {
+      width: 50px;
+      height: 50px;
+      background: black;
+      border-radius: 50%;
+      opacity: 0.6;
+      align-content: flex-start;
+      margin-top:-75px;
+      right: 640px;
+      position: absolute;
+      
+     }
+
+     #bouton{
+display:none;
+background:gold;
+}
+
+#epol{
+	display: none;
+}
+
+#brass {
+	display: none;
+}
+
+#main1 {
+	display: none;
+}
+
+#hanche {
+	display: none;
+}
